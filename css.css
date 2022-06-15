@@ -1,0 +1,163 @@
+.parent{
+    display:flex;
+    flex-direction:row;
+  flex-wrap:wrap;
+}
+.titlu:hover{
+    background-color: grey;
+}
+.nr1:hover{
+    background-color: grey;
+}
+.nr2:hover{
+    background-color: grey;
+}
+.nr3:hover{
+    background-color: grey;
+}
+.nr4:hover{
+    background-color: grey;
+}
+
+
+.type{
+    height:20px;
+    width:100px;
+    padding:4px;
+}
+.culoare{
+    color:orange;
+}
+#myButton{
+    border-style:solid;
+    border-color:black;
+    width:150px;
+    height:50px;
+    background-color:yellow;
+    color:red;
+    text-align: center;
+    text-transform: uppercase;
+    position:absolute;
+    bottom:318px;
+    right:10px;
+    
+    
+    
+    
+
+}
+#myButton:hover{
+    background-color: blue;
+    color:black;
+}
+
+.query:hover{
+    color:green;
+
+}
+
+.titlu{
+    color:red;
+    text-align:center;
+    text-decoration: underline;
+    border-style:solid;
+    border-color:red;
+    width:100%;
+    
+    box-sizing: border-box;
+
+    border-width:6px;
+
+    
+    
+}
+
+
+
+.nr1{
+
+    border-color:blue;
+    border-style:solid;
+    border-width:4.5px;
+    width:33%;
+    height:250px;
+    
+    margin:0%;
+    box-sizing: border-box;
+   
+
+
+}
+
+.nr1 img{
+    width:100%;
+    height:100%;
+}
+
+.nr2{
+    border-color:green;
+    border-style:solid;
+    border-width:3px;
+    width:34%;
+    height:250px;
+    box-sizing: border-box;
+    
+   
+    border-width:4.5px;
+    
+    
+}
+.nr3{
+    border-color:orange;
+    border-style:solid;
+    border-width:3px;
+    width:33%;
+    height:250px;
+    box-sizing: border-box;
+    
+    border-width:4.5px;
+    
+
+    
+}
+.nr4{
+    border-color:purple;
+    border-style:solid;
+    border-width:4px;
+    box-sizing: border-box;
+    width:100%;
+    height:350px;
+}
+table,th,td{
+    border:0.5px solid black;
+    
+}
+table{
+   width:50%;
+   height:100%;
+}
+
+
+
+.nr{
+    width:1px;
+    
+}
+.activity{
+    width:10px;
+    
+    
+}
+.status{
+    width:4px;
+    
+}
+.date{
+    width:4px;
+    
+   
+}
+.action{
+    width:7px;
+   
+}
